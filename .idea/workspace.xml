@@ -9,10 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2cb64ae-7365-4252-9963-c27831e445ae" name="Changes" comment="COmmit2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/servlet/servlet/ParametorGetServlet.java" afterDir="false" />
+    <list default="true" id="a2cb64ae-7365-4252-9963-c27831e445ae" name="Changes" comment="Get">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/servlet/servlet/Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/servlet/servlet/Servlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/servlet/servlet/ParametorGetServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/servlet/servlet/ParametorGetServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,7 +140,7 @@
       <updated>1715784085650</updated>
       <workItem from="1715784086691" duration="2805000" />
       <workItem from="1715788407210" duration="21000" />
-      <workItem from="1715864551018" duration="6401000" />
+      <workItem from="1715864551018" duration="7404000" />
     </task>
     <task id="LOCAL-00001" summary="COmmit">
       <option name="closed" value="true" />
@@ -159,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715870009974</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Get">
+      <option name="closed" value="true" />
+      <created>1715871018575</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715871018575</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,7 +175,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="COmmit" />
     <MESSAGE value="COmmit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="COmmit2" />
+    <MESSAGE value="Get" />
+    <option name="LAST_COMMIT_MESSAGE" value="Get" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
