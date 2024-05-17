@@ -13,7 +13,7 @@ import java.io.PrintWriter;
 
 //nombre,edad,apellido,curso,radio button donde seleccione el genero,select con
 //lenguajes de programacion y un text area descripcion
-public class ParametorGetServlet extends HttpServlet {
+public class ParametorPostServlet extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
