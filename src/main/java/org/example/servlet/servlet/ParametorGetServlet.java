@@ -50,7 +50,6 @@ public class ParametorGetServlet extends HttpServlet {
             out.println("<li>Ningún lenguaje seleccionado</li>");
         }
         out.println("<h2>Descripcion: " + descripcion + "</h2>");
-        out.println("<a href=\"servlet\" methods=\"get\">xd</a>");
         out.println("</body>");
         out.println("</html>");
 
